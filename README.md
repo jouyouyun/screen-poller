@@ -1,5 +1,4 @@
-
-Deepin Screen Poller
+Screen Poller
 =================
 
 
