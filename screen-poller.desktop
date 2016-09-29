@@ -1,6 +1,6 @@
 [Desktop Entry]
-Exec=deepin-screen-poller
-Name=Deepin Screen Resource Poller
+Exec=screen-poller
+Name=Screen Resource Poller
 Terminal=false
 Type=Application
 Categories=Utility;
